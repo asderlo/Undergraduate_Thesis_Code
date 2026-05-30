@@ -1,0 +1,12 @@
+dataset,alpha_lx,sel_kernel_lx,eta_lx,gamma_lx,acc_3stage
+3sources,0.2,14,1,0,0.77465483
+MSRC_v1,0.9,15,10,0,0.9
+BBCSport,0.1,8,100,0,0.98345588
+BRCA,0.2,16,1,0,0.68873534
+WikipediaArticles,0.9,5,1,10,0.6001443
+ORL,0.6,6,1,0.1,0.84375
+WebKB,0.3,6,1,0,0.70623974
+Yale,0.2,11,1,0.01,0.69969697
+Movies,0.8,9,1,1,0.26012966
+Prokaryotic,0.7,3,10,0,0.7430732
+BBC,0.9,14,20,0.005,NaN
